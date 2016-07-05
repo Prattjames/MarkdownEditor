@@ -11,6 +11,6 @@ Stack :
 
 ```
   > git clone https://github.com/Prattjames/MarkdownEditor.git
-	> npm install
-	> meteor
+  > npm install
+  > meteor
 ```
